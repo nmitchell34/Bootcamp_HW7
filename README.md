@@ -16,7 +16,7 @@
   
   
   ## Installation
-  When first using this project please run npm install in your console. This should install inquirer.
+  When first using this project please run npm install in your console. This should install inquirer. If it doesn't work, please run "npm init" followed by "npm install inquirer"
   
   
   ## Usage 
@@ -34,7 +34,7 @@
   
   
   ## Questions
-  If you have any questions, please reach out to me at:<br>ncm297@gmail.com OR<br>github.com/nmitchell34
+  If you have any questions, please reach out to me at:<br>ncm297@gmail.com OR<br>https://www.github.com/nmitchell34
   
   
   ## License
