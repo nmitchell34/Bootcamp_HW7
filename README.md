@@ -21,7 +21,7 @@
   
   ## Usage 
   To use this project, enter node index.js into your console while located in the same folder as the index.js file.
-  Here is a video showing how to use this: https://drive.google.com/file/d/1e_08EAGGXfAnRGAiUJ15fVRBRZlPRCr8/view
+  Here is a video showing how to use this: https://drive.google.com/file/d/1Z1tnRmd4GC8oYHOMUlPsILO33ZS9mIif/view
 
   Or here is the corresponding GIF:<br>
   ![](./BootcampHW7.gif)
